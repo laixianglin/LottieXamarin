@@ -19,7 +19,7 @@
   <ItemGroup>
     <PackageReference Include="Square.OkIO" Version="1.17.4" />
     <PackageReference Include="Xamarin.AndroidX.AppCompat" Version="1.1.0" />
-	  <PackageReference Include="Xamarin.Build.Download" Version="0.9.0" PrivateAssets="All" />
+	  <PackageReference Include="Xamarin.Build.Download" Version="0.10.0" PrivateAssets="All" />
     <!-- None Include="Additions\*;Jars\*;Transforms\*" /-->
     <LibraryProjectZip Include="Jars\*.aar" />
     <TransformFile Include="Transforms\*.xml" />
